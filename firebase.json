@@ -1,0 +1,11 @@
+{
+  "hosting": {
+  	"site": "meta-buckeye-311914",
+    "public": "public",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ]
+  }
+}
